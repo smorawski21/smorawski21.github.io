@@ -12,5 +12,8 @@ I do research.
 [Download my CV](Morawski_CV_FoR)
 [UW Geology and Geophysics](https://www.uwyo.edu/geolgeophys/index.html)
 
+## Fielwork
+![Field Site in Alaska]#(include image link here)
+
 ## Contact
 smorawsk@uwyo.edu
