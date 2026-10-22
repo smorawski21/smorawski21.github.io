@@ -13,7 +13,7 @@ I do research.
 [UW Geology and Geophysics](https://www.uwyo.edu/geolgeophys/index.html)
 
 ## Fielwork
-![Field Site in Alaska]#(include image link here)
+![Collecting water samples in Alaska](IMG_5182.jpeg)
 
 ## Contact
 smorawsk@uwyo.edu
