@@ -9,7 +9,7 @@ Advisors: Jamie McFarlin and Bryan Shuman
 I do research.
 
 ## Additional Information
-[Download my CV](Morawsk_CV_FoR)
+[Download my CV](Morawski_CV_FoR)
 [UW Geology and Geophysics](https://www.uwyo.edu/geolgeophys/index.html)
 
 ## Contact
